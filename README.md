@@ -3,6 +3,7 @@
 ## About Me
 I'm an aspiring **Full-Stack Developer**, **Cybersecurity learner**, and **AI enthusiast**.  
 I love building applications, exploring how systems work, and creating AI-driven solutions.  
+
 Currently, I am:
 - Strengthening my **frontend skills** and learning **backend development**
 - Exploring **ethical hacking** and **cybersecurity concepts**
